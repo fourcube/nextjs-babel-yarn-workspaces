@@ -1,0 +1,1 @@
+export const foo: string = "This is the foo!";

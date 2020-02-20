@@ -1,0 +1,1 @@
+export const bar: string = "This ist the bar.";

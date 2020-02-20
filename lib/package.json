@@ -1,0 +1,19 @@
+{
+  "name": "@monorepo-babel/lib",
+  "version": "1.0.0",
+  "private": true,
+  "main": "build/index.js",
+  "files": [
+    "src/",
+    "build/"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-typescript": "^7.8.3",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4"
+  }
+}
